@@ -1,7 +1,7 @@
 # Smart-Contract-Lottery-Web-Application 
 This is Smart Contract for Lottery Appliction .
 # Next Target 
-To Contect with GuI and make proper Web Application.
+To Conntect with GuI and make proper Web Application.
 # Ethereum 
 Ethereum is a blockchain platform that allows developers to create decentralized applications (DApps) and smart contracts, which are self-executing contracts with the terms of the agreement directly written into code.
 
@@ -18,3 +18,5 @@ This is typically done through the contract's code.
 
 # Pictorial representation
 ![Screenshot (35)](https://github.com/gauravpandey03/Smart-Contract-Lottery-Web-Application/assets/123469809/9c760fdc-1837-451b-a020-32faf5a1d129)
+
+
